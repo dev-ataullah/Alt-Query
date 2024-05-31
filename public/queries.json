@@ -1,0 +1,58 @@
+[
+  {
+    "Product Name": "ClearView Glasses",
+    "Product Brand": "VisionMax",
+    "Product Image-URL": "images/clearview-glasses.jpg",
+    "Query Title": "Are there superior vision-enhancing alternatives?",
+    "Boycotting_Reason_Details": "The ClearView Glasses from VisionMax promised enhanced night vision for safer driving. However, after several uses, it became clear that they do not reduce glare as advertised. Instead, they distort vision and the flimsy material feels cheap and unreliable for long-term use."
+  },
+  {
+    "Product Name": "UltraClean Detergent",
+    "Product Brand": "CleanHome",
+    "Product Image-URL": "images/ultraclean-detergent.jpg",
+    "Query Title": "Seeking a detergent that truly cleans?",
+    "Boycotting_Reason_Details": "UltraClean Detergent claims to remove tough stains and brighten clothes. Unfortunately, it fails to deliver on both fronts. I've noticed no difference in stain removal compared to other brands, and it even caused colors to fade. The search for a reliable detergent continues."
+  },
+  {
+    "Product Name": "EverLast Batteries",
+    "Product Brand": "PowerCell",
+    "Product Image-URL": "images/everlast-batteries.jpg",
+    "Query Title": "Need batteries that won't fail unexpectedly?",
+    "Boycotting_Reason_Details": "EverLast Batteries are marketed as long-lasting, but my experience says otherwise. They barely hold a charge and are outperformed by cheaper alternatives. It's frustrating when you rely on them for important devices only to be let down."
+  },
+  {
+    "Product Name": "SmoothBlend Mixer",
+    "Product Brand": "KitchenPro",
+    "Product Image-URL": "images/smoothblend-mixer.jpg",
+    "Query Title": "Looking for a mixer that can handle tough blending?",
+    "Boycotting_Reason_Details": "The SmoothBlend Mixer from KitchenPro struggles with basic blending tasks. It overheats quickly and leaves chunks unprocessed. For a kitchen appliance, reliability is key, and this mixer just doesn't cut it."
+  },
+  {
+    "Product Name": "Purity Water Filter",
+    "Product Brand": "AquaSafe",
+    "Product Image-URL": "images/purity-water-filter.jpg",
+    "Query Title": "Desire a water filter that lives up to its name?",
+    "Boycotting_Reason_Details": "The Purity Water Filter was a disappointment. It's supposed to provide clean, taste-free water, but there's a noticeable chemical taste post-filtration. Additionally, the filter life is much shorter than advertised, leading to frequent and costly replacements."
+  },
+  {
+    "Product Name": "ComfySole Insoles",
+    "Product Brand": "FootRelief",
+    "Product Image-URL": "images/comfysole-insoles.jpg",
+    "Query Title": "In search of insoles that offer real comfort?",
+    "Boycotting_Reason_Details": "ComfySole Insoles fall short of providing the promised all-day comfort. They flatten out quickly and offer minimal arch support. My feet end up sore after just a few hours of wear, which is unacceptable for a product designed for relief."
+  },
+  {
+    "Product Name": "QuickHeat Space Heater",
+    "Product Brand": "WarmUp",
+    "Product Image-URL": "images/quickheat-space-heater.jpg",
+    "Query Title": "Want a heater that warms up your space efficiently?",
+    "Boycotting_Reason_Details": "The QuickHeat Space Heater from WarmUp is neither quick nor efficient. It consumes a lot of power without significantly warming up the room. It's also quite noisy, which is a major drawback for a device that should quietly blend into the background."
+  },
+  {
+    "Product Name": "SunBurst Sunscreen",
+    "Product Brand": "SkinGuard",
+    "Product Image-URL": "images/sunburst-sunscreen.jpg",
+    "Query Title": "Is there a sunscreen that actually protects?",
+    "Boycotting_Reason_Details": "SunBurst Sunscreen boasts an SPF 50 rating, but it fails to protect against sunburn. It's greasy, difficult to apply evenly, and washes off easily with water, making it impractical for outdoor activities. A sunscreen should shield you reliably, and this one does not."
+  }
+]

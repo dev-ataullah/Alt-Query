@@ -1,0 +1,106 @@
+.cardAnim1 {
+  /* background-color: #11d4a3; */
+  animation: myAnim 15s linear 0s infinite normal forwards;
+}
+.cardAnim2 {
+  /* background-color: #11d4a3; */
+  animation: myAnim 15s linear 2s infinite normal forwards;
+}
+.cardAnim3 {
+  /* background-color: #11d4a3; */
+  animation: myAnim 15s linear 1s infinite normal forwards;
+}
+.cardAnim4 {
+  /* background-color: #11d4a3; */
+  animation: myAnim 15s linear 3s infinite normal forwards;
+}
+
+@keyframes myAnim {
+  0% {
+    animation-timing-function: ease-in;
+    transform: translateY(0px);
+  }
+  5% {
+    animation-timing-function: ease-in;
+    transform: translateY(-10px);
+  }
+  10% {
+    animation-timing-function: ease-in;
+    transform: translateY(-20px);
+  }
+  15% {
+    animation-timing-function: ease-in;
+    transform: translateY(-30px);
+  }
+  20% {
+    animation-timing-function: ease-in;
+    transform: translateY(-40px);
+  }
+
+  25% {
+    animation-timing-function: ease-in;
+    transform: translateY(-30px);
+  }
+  30% {
+    animation-timing-function: ease-in;
+    transform: translateY(-20px);
+  }
+  35% {
+    animation-timing-function: ease-in;
+    transform: translateY(-10px);
+  }
+
+  40% {
+    animation-timing-function: ease-in;
+    transform: translateY(0px);
+  }
+
+  45% {
+    animation-timing-function: ease-in;
+    transform: translateY(10px);
+  }
+
+  50% {
+    animation-timing-function: ease-in;
+    transform: translateY(20px);
+  }
+
+  55% {
+    animation-timing-function: ease-in;
+    transform: translateY(30px);
+  }
+
+  60% {
+    animation-timing-function: ease-in;
+    transform: translateY(40px);
+  }
+
+  65% {
+    animation-timing-function: ease-out;
+    transform: translateY(30px);
+  }
+  70% {
+    animation-timing-function: ease-out;
+    transform: translateY(20px);
+  }
+  75% {
+    animation-timing-function: ease-out;
+    transform: translateY(10px);
+  }
+  80% {
+    animation-timing-function: ease-out;
+    transform: translateY(0px);
+  }
+  85% {
+    animation-timing-function: ease-out;
+    transform: translateY(10px);
+  }
+  90% {
+    animation-timing-function: ease-out;
+    transform: translateY(20px);
+  }
+  95% {
+    animation-timing-function: ease-out;
+    transform: translateY(30px);
+  }
+}
